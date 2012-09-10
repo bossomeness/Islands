@@ -1,0 +1,4 @@
+name: Islands
+version: 0.2
+main: com.modcrafting.islands.Islands
+load: STARTUP
